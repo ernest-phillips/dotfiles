@@ -1,2 +1,2 @@
 # dotfiles
-idk my bff jill
+I borrowed this from Lindsey
